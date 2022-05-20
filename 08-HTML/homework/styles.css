@@ -1,0 +1,37 @@
+h1{
+    color:red;
+    text-align:center;
+}
+h3, h4{
+    text-align:center;
+}
+.thirdDiv{
+    height:600px;
+    width:500px;
+    background-color: aqua;
+    padding:50px;
+    border-style: dotted;
+    border-width:10px;
+    border-color:blueviolet;
+    margin:auto;
+}
+.divClass{
+    margin:auto;
+}
+.spanId{
+    font-size:18px;
+    margin:50px;
+    margin:auto;
+    text-align:center;
+    display:block;
+}
+img{
+    width:400px;
+}
+body{
+    background-image: url("https://www.locura-geometrica.com/wp-content/uploads/patrones-geometricos-tribal.jpg");
+}
+a{
+    text-align:center;
+    display:block;
+}
